@@ -1,4 +1,4 @@
-# BOJ 01271 : 엄청난 부자
+# BOJ 01271 : 엄청난 부자2
 - 난이도 : Bronze 5
 - 몫, 나머지
 - 문제 : [링크](https://www.acmicpc.net/problem/1271)
